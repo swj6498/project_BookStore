@@ -168,6 +168,9 @@ print(f"\n소요 시간: {time.time() - start_time:.1f}초")
 <details>
 <summary><strong>네이버 국내 뉴스 크롤링 코드</strong></summary>
 
+</details>
+
+---
 
 ## 📬 프로젝트 구조
 
@@ -196,7 +199,6 @@ print(f"\n소요 시간: {time.time() - start_time:.1f}초")
       ├─ MyPage
       └─ notice
 ```
-</details>
 
 ---
 
