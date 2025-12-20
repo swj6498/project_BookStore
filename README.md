@@ -164,8 +164,6 @@ start_time = time.time()
 run_crawler()
 print(f"\n소요 시간: {time.time() - start_time:.1f}초")
 ```
-
-
 </details>
 
 ---
@@ -210,5 +208,4 @@ print(f"\n소요 시간: {time.time() - start_time:.1f}초")
 🔗 YouTube 링크: https://youtu.be/qynV_2sgY8g (관리자)
 
 ---
-
 
