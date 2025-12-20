@@ -133,6 +133,21 @@
 
 ## 🔍 담당 기능
 
+<details>
+<summary><strong>장바구니</strong></summary>
+    
+
+**파일명**: `crawler_krx_naver.py`  
+**용도**: 네이버 증권에서 KOSPI/KOSDAQ 전 종목 시세를 매일 자동 크롤링 → MongoDB 저장 + Redis 캐시 갱신  
+**자동화**: Linux(Ubuntu) crontab을 활용한 월~금 09시부터 15시30분까지 10분 간격 실행 예약
+@@ -199,3 +199,289 @@
+start_time = time.time()
+run_crawler()
+print(f"\n소요 시간: {time.time() - start_time:.1f}초")
+```
+
+<details>
+<summary><strong>네이버 국내 뉴스 크롤링 코드</strong></summary>
 
 
 ## 📬 프로젝트 구조
