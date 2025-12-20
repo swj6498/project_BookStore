@@ -152,18 +152,41 @@
 
 ## 🔍 담당 기능
 
+장바구니
 <details>
-<summary><strong>장바구니</strong></summary>
-    
+<summary><strong>장바구니 담기/장바구니 리스트 선택img width="1467" height="2106" alt="image" src="https://github.com/user-attachments/assets/443ac567-965d-4d8c-b105-995308a2aff7" />
 
-**파일명**: `crawler_krx_naver.py`  
-**용도**: 네이버 증권에서 KOSPI/KOSDAQ 전 종목 시세를 매일 자동 크롤링 → MongoDB 저장 + Redis 캐시 갱신  
-**자동화**: Linux(Ubuntu) crontab을 활용한 월~금 09시부터 15시30분까지 10분 간격 실행 예약
-@@ -199,3 +199,289 @@
-start_time = time.time()
-run_crawler()
-print(f"\n소요 시간: {time.time() - start_time:.1f}초")
-```
+</details>
+
+📄 테이블 명세서  
+👉 [database-table-definition.xlsx](https://github.com/user-attachments/files/24016641/database-table-definition.xlsx)
+
+---
+
+## 🔍 담당 기능
+
+장바구니
+<details>
+<summary><strong>장바구니 담기/장바구니 리스트 선택·삭제/장바구니 갯수 변경</strong></summary>
+    
+https://github.com/user-attachments/assets/56dabf5b-1e67-4892-b63a-6455788615b9
+
+</details>
+
+구매하기
+<details>
+<summary><strong>도서 구매하기/토스페이 구매하기</strong></summary>
+
+https://github.com/user-attachments/assets/be119b04-816c-417a-abe7-565af873c524
+
+</details>
+
+구매내역
+<details>
+<summary><strong>도서 구매내역/구매 상세 내역 조회</strong></summary>
+
+https://github.com/user-attachments/assets/e55f01e5-9b6e-4909-aa3b-b285f0fdc97c
+
 </details>
 
 ---
