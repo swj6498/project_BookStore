@@ -152,19 +152,6 @@
 
 ## 🔍 담당 기능
 
-장바구니
-<details>
-<summary><strong>장바구니 담기/장바구니 리스트 선택img width="1467" height="2106" alt="image" src="https://github.com/user-attachments/assets/443ac567-965d-4d8c-b105-995308a2aff7" />
-
-</details>
-
-📄 테이블 명세서  
-👉 [database-table-definition.xlsx](https://github.com/user-attachments/files/24016641/database-table-definition.xlsx)
-
----
-
-## 🔍 담당 기능
-
 <details>
 <summary><strong>장바구니 담기/장바구니 리스트 선택·삭제/장바구니 갯수 변경</strong></summary>
     
