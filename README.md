@@ -165,7 +165,6 @@
 
 ## 🔍 담당 기능
 
-장바구니
 <details>
 <summary><strong>장바구니 담기/장바구니 리스트 선택·삭제/장바구니 갯수 변경</strong></summary>
     
@@ -173,7 +172,6 @@ https://github.com/user-attachments/assets/56dabf5b-1e67-4892-b63a-6455788615b9
 
 </details>
 
-구매하기
 <details>
 <summary><strong>도서 구매하기/토스페이 구매하기</strong></summary>
 
@@ -181,7 +179,6 @@ https://github.com/user-attachments/assets/be119b04-816c-417a-abe7-565af873c524
 
 </details>
 
-구매내역
 <details>
 <summary><strong>도서 구매내역/구매 상세 내역 조회</strong></summary>
 
