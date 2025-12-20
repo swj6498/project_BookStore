@@ -196,7 +196,7 @@ print(f"\n소요 시간: {time.time() - start_time:.1f}초")
       ├─ MyPage
       └─ notice
 ```
-
+</details>
 ---
 
 ## 🚀 시연 영상 & 데모
